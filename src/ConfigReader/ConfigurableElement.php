@@ -1,6 +1,6 @@
 <?php
 
-namespace ConfigReader;
+namespace Razherana\ConfigReader;
 
 use Razherana\ConfigReader\exceptions\UnknownConfigException;
 
